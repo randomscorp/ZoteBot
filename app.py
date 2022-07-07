@@ -25,5 +25,4 @@ async def on_message(message: discord.Message):
             await message.channel.send(precepts[precept-1])
 
 
-#4VoLT4Y_Um8yZzyGLBUnsOWRJo7dYlcT
 client.run('')
